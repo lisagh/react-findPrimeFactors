@@ -8,7 +8,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-render-gist": "^1.0.5",
-    "react-scripts": "1.1.5",
+    "react-scripts": "5.0.1",
     "reactstrap": "^6.4.0"
   },
   "scripts": {
@@ -20,6 +20,28 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "ajv": "^8.20.0",
+    "gh-pages": "^6.3.0"
+  },
+  "overrides": {
+    "@tootallnate/once": "2.0.1",
+    "nth-check": "2.1.1",
+    "postcss": "8.5.19",
+    "serialize-javascript": "7.0.7",
+    "underscore": "1.13.8",
+    "uuid": "11.1.1",
+    "webpack-dev-server": "5.2.6"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
