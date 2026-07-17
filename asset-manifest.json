@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.12bbc612.css",
-  "main.css.map": "static/css/main.12bbc612.css.map",
-  "main.js": "static/js/main.b5fe0d07.js",
-  "main.js.map": "static/js/main.b5fe0d07.js.map"
+  "files": {
+    "main.css": "/react-findPrimeFactors/static/css/main.5a352bef.css",
+    "main.js": "/react-findPrimeFactors/static/js/main.37c4cac3.js",
+    "index.html": "/react-findPrimeFactors/index.html",
+    "main.5a352bef.css.map": "/react-findPrimeFactors/static/css/main.5a352bef.css.map",
+    "main.37c4cac3.js.map": "/react-findPrimeFactors/static/js/main.37c4cac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a352bef.css",
+    "static/js/main.37c4cac3.js"
+  ]
 }
